@@ -2,7 +2,8 @@ import React from "react";
 import { actors } from "../data";
 
 function Actors() {
-  return <div>{/*{code here}*/}</div>;
+  return <div><h1>Actors Page</h1>
+  <div><ul></ul></div></div>;
 }
 
 export default Actors;
